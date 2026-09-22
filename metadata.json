@@ -1,0 +1,6 @@
+{
+  "name": "CareLink 2.0",
+  "description": "Disaster response and crisis operations mission control dashboard for rapid triage and volunteer dispatch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
